@@ -1,0 +1,7 @@
+C:\Users\harsh\source\repos\AppoinmentScheduler\AppoinmentScheduler\bin\Debug\AppoinmentScheduler.exe.config
+C:\Users\harsh\source\repos\AppoinmentScheduler\AppoinmentScheduler\bin\Debug\AppoinmentScheduler.exe
+C:\Users\harsh\source\repos\AppoinmentScheduler\AppoinmentScheduler\bin\Debug\AppoinmentScheduler.pdb
+C:\Users\harsh\source\repos\AppoinmentScheduler\AppoinmentScheduler\obj\Debug\AppoinmentScheduler.csproj.AssemblyReference.cache
+C:\Users\harsh\source\repos\AppoinmentScheduler\AppoinmentScheduler\obj\Debug\AppoinmentScheduler.csproj.CoreCompileInputs.cache
+C:\Users\harsh\source\repos\AppoinmentScheduler\AppoinmentScheduler\obj\Debug\AppoinmentScheduler.exe
+C:\Users\harsh\source\repos\AppoinmentScheduler\AppoinmentScheduler\obj\Debug\AppoinmentScheduler.pdb
